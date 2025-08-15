@@ -1,6 +1,6 @@
 Automation - Web Application
 IDE -Integrated Development Environment - Eclipse, IntelliJ, NetBeans
- 
+ EDITED ONE
 JAVA + Selenium = combination
 Selenium - having the facility to control the Webapp ex: driver.get("URL")/(Logic) Built in tool
 
@@ -30,3 +30,4 @@ readonly is there in xpath // u need to use javascriptExecutor
 Waits - Implicit,Explicit,Fluent
 we use mostly Implicit waits
 Explicit wait - Thread.sleep
+
