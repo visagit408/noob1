@@ -1,0 +1,32 @@
+Automation - Web Application
+IDE -Integrated Development Environment - Eclipse, IntelliJ, NetBeans
+ 
+JAVA + Selenium = combination
+Selenium - having the facility to control the Webapp ex: driver.get("URL")/(Logic) Built in tool
+
+ Selenium Download ? Jar Download
+
+object - WebDriver driver = new ChromeDriver();
+
+8 types of parameters 
+By.linkText("url").click();
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+webelementname.click(); -- // to return main image
+driver.navigate().back(); -- //to get back to the main page
+
+Actions// like doubleclick the button 
+ctrl+shift+o = import
+
+diff btw Select and Actions
+
+readonly is there in xpath // u need to use javascriptExecutor
+
+@Test in pageclass r where
+@BeforeClass
+@BeforeSuite
+
+Waits - Implicit,Explicit,Fluent
+we use mostly Implicit waits
+Explicit wait - Thread.sleep
